@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import pandas as pd
+#import pandas as pd
 #from shapely.geometry import Point, shape
 
 from flask import Flask
